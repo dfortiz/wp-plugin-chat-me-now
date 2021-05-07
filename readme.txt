@@ -9,10 +9,10 @@ Requires at least: 4.6
 License: GNUGPLv3
 License URI: https://www.gnu.org/licenses/gpl.html
 
-Floating button that opens the WhatsApp chat to the technical support on turn. It allows asign the work schedule of up to 2 employees.
+Floating button that opens the WhatsApp chat to the technical support on turn. It allows assign the work schedule of up to 2 employees.
 
 == Description ==
-Integrate WhatsApp support dialog directly into your WordPress website and that will help you to increase leads/sales from your website. this is well design with lightwight code help to attract users for chat with active agent using WhatApp application. 
+Integrate WhatsApp support dialog directly into your WordPress website and that will help you to increase leads/sales from your website. this is well design with lightwight code help to attract users for chat with active agent using WhatApp application. In addition, you can select the scheduler to designate the service hours between 2 WhatsApp numbers automatically.
 
 
 = Available fields =
